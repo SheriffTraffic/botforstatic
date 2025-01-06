@@ -4,7 +4,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 
 # Токен бота
-BOT_TOKEN = "8053486744:AAFtM6plXwfXX5gGkJGfw1_xG1Na5b8BF2w"
+BOT_TOKEN = "6927435499:AAHtbYuUDk-6n8sl4XvS1X6vj4HUe43OUAQ"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Налаштування доступу до Google Sheets
