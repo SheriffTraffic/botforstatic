@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lali4ka",
+  "private_key_id": "653f000826ef441b6a82d7890ec386c71cd0718e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvGCuiTHUnQPtM\nWIVG+zmQ8qIkkYgDhaT3hBPId8PfDzHNK47vxOtZT2N38kSCQPLXGFt5bl5ZtP3q\nlOJo0X8lwPXwIHJs7MiclejhSI7bdEURON2rXDTEOJdsNXscD5lXcaixvVvHotp5\n/vKXZGZzGoPRUhCR8JnAE+g3Ar5BSus6iRgU1Bgog2opcjRHqoap8CriR92PdfeG\nGbEjcbIcaA5nqbwU9G0nZuPknvqCbpErrUzdoU2xopEVzA18mLpgjxtwurKEkvWt\noGX3MiROoNxhIbF2nkE6yb7zjjpHJ1biLFElVxqlrbYQkQ0/nD7Dv2isl363Qdge\nT7T/4AP9AgMBAAECggEAEXMBXN4YFMPgkgCxCNxeJchQXqrpg58CIYVA6sr+CFDo\nKnq19sYd8DC9sxqVN5KHwOYqrjomCUmaE70np8DXq32vOhwkWx+TydW/YhLMOH7o\np9PjdMGDzq7sbuUQ3Os0YbxazpprjER6AmC6cK+ZmCH4fgKa0nhy/MCJyqWpgTHE\ndC7VAtlYvAorDsOEZn7oXmi8q0Gz+t4l76qTQq1Jfs0RVo8NkQUp7EuGHNmxuNY3\nuQAHFnP3ydoSqO3PTwV0elV2CB6WwSNxURW3VVFB6UOh5bRlV4Mt32Bs2BHIaoqy\n+N6vveiTMoPMfwhTndXcRpfy7QUTdDNgDNvwoQ5V3wKBgQDYmbU2Ibk2FD4LuNyZ\n8xROIR2dDL3btfKt1RknFZgIyuO0GEPmin0ZkdrHRfVA2+U0gibNJ2r09nM6bqto\nAg5ApAli3RXFAfpql43yWCnsxaRUZAyHaV538B7I+xD4S32EmhJI8mXzP7Ctzbj+\njjtZth2u3sJUeey9tLpqPuRMXwKBgQDO8a3fs6hfkLRiFMoUrQCedaNaBd34ZNoc\nETW7ZjyjqgObGOfWi0e8yHqbiXjArbfs3w075vvcu6kkRaCCe5ART8sNV8lEnadI\nc2eTs88u7+byda3pcIvsfp/YsOKTPqBZLJ5ctbc/7pbGNVCj3ntQws8+1Q0jjV9I\n0z6l8e9NIwKBgGQm1mpcN4Zw36uN47rvcaEaoNXAUX1o6PhFw2aWDoFqRtU8LxFH\nUcbj8RQZHejKhHW+BHDx2/u+hNMs3uatpKdw8cIb1fgNDRwCTakT6PbJAE3hIQXv\ny7WLesCVjmgwh64ri27dXhSWi3wh1nsliv3VPm5gI9zpr3ScP2HnCKrjAoGAal6D\nNtbLlsN0VG3HKTV7efeRjTYyz/hWu9KEwdxdEurSi6gTko1oxDpv+v6AWNlyDojf\n7ohdsSmsWP6I8Ei+1ocjIaqbw28divn2pU7pEYEyPjIKwFCfO2Iim2jgLTslhHCQ\nvaqRlIT4bsz8tB4pWGupxuwPotSJw48BRp7Cl+0CgYEAwk8Yq9tpf9XFC5nFGO+P\nXg+C5MY70k06xy/Lw84TjCtf2GUxe5PB3jO1BubyqNElvF6MiQr1BoMXXJXzOmTu\nm/kbENpIi66cBOQ66ue9/NXWf3duFK1HiUcDmD4U+kH8AYiMJ9m6t75CHFDrVOSs\n2vHuP3TfDpG3UTcunzyplzw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "withdraw-requests@lali4ka.iam.gserviceaccount.com",
+  "client_id": "115999986621964421021",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/withdraw-requests%40lali4ka.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
